@@ -1,3 +1,4 @@
+package com.company;
 public class Classroom {
     public static void main(String[] args) {
         Wilder walter = new Wilder("Walter", true);

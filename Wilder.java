@@ -1,3 +1,4 @@
+package com.company;
 public class Wilder {
 
     // attributs
@@ -15,6 +16,7 @@ public class Wilder {
         return this.firstname;
     }
 
+    
     public boolean isAware() {
         return this.aware;
     }
